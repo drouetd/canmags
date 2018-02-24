@@ -1,2 +1,2 @@
 # canmags
-Scraps listing of Canadian magazines
+Scrapes listing of Canadian magazines
